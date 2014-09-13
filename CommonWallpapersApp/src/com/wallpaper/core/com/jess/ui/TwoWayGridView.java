@@ -35,7 +35,7 @@
 
 package com.wallpaper.core.com.jess.ui;
 
-import com.carbonw.fiba.wallpapers.R;
+import com.rapicdu.fiba.wallpapers.R;
 
 import android.content.Context;
 import android.content.res.TypedArray;

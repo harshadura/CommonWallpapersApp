@@ -13,7 +13,7 @@ import com.wallpaper.core.com.jess.ui.TwoWayGridView;
 
 import java.util.ArrayList;
 
-import com.carbonw.fiba.wallpapers.R;
+import com.rapicdu.fiba.wallpapers.R;
 
 public abstract class GridFragment extends SherlockFragment implements OnItemLongClickListener, OnGetViewListener, OnItemClickListener {
 

@@ -1,6 +1,6 @@
 package com.wallpaper.activity;
 
-import com.carbonw.fiba.wallpapers.R;
+import com.rapicdu.fiba.wallpapers.R;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

@@ -14,7 +14,7 @@ import android.widget.ImageView;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import com.carbonw.fiba.wallpapers.R;
+import com.rapicdu.fiba.wallpapers.R;
 
 /**
  * Displays a splash screen image while and loads an interstitial before starting the application.

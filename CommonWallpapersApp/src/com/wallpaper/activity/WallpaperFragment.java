@@ -33,7 +33,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.OutputStream;
 
-import com.carbonw.fiba.wallpapers.R;
+import com.rapicdu.fiba.wallpapers.R;
 
 public class WallpaperFragment extends SherlockFragment {
 

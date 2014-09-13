@@ -57,7 +57,7 @@ import android.widget.Scroller;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.carbonw.fiba.wallpapers.R;
+import com.rapicdu.fiba.wallpapers.R;
 
 /**
  * Base class that can be used to implement virtualized lists of items. A list

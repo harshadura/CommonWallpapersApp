@@ -15,7 +15,7 @@
  *******************************************************************************/
 package com.wallpaper.core.uk.co.senab.photoview;
 
-import com.carbonw.fiba.wallpapers.BuildConfig;
+import com.rapicdu.fiba.wallpapers.BuildConfig;
 
 import android.content.Context;
 import android.graphics.Matrix;

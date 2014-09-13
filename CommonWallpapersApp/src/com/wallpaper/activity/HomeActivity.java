@@ -39,7 +39,7 @@ import com.wallpaper.core.RestClientHandler.OnRestResponseHandler;
 
 import java.util.ArrayList;
 
-import com.carbonw.fiba.wallpapers.R;
+import com.rapicdu.fiba.wallpapers.R;
 
 import com.google.analytics.tracking.android.EasyTracker;
 import com.google.android.gms.ads.AdRequest;
